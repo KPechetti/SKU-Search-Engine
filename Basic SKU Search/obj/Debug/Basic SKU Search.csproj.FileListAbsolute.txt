@@ -1,0 +1,49 @@
+c:\users\v-kipech\documents\visual studio 2013\Projects\Basic SKU Search\Basic SKU Search\bin\Debug\Basic SKU Search.exe.config
+c:\users\v-kipech\documents\visual studio 2013\Projects\Basic SKU Search\Basic SKU Search\bin\Debug\Basic SKU Search.exe
+c:\users\v-kipech\documents\visual studio 2013\Projects\Basic SKU Search\Basic SKU Search\bin\Debug\Basic SKU Search.pdb
+c:\users\v-kipech\documents\visual studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csprojResolveAssemblyReference.cache
+c:\users\v-kipech\documents\visual studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Properties.Resources.resources
+c:\users\v-kipech\documents\visual studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csproj.GenerateResource.Cache
+c:\users\v-kipech\documents\visual studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.exe
+c:\users\v-kipech\documents\visual studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.pdb
+C:\Users\v-kipech\Documents\Visual Studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.MOET_Sku_Search.resources
+C:\Users\v-kipech\Documents\Visual Studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Form2.resources
+C:\Users\v-kipech\Documents\Visual Studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.eMSL.resources
+C:\Users\v-kipech\Documents\Visual Studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Open_Business_Customer_Search.resources
+C:\Users\v-kipech\Documents\Visual Studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Home.resources
+C:\Users\v-kipech\Documents\Visual Studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.MSL_Agreement_Search.resources
+C:\Users\v-kipech\Documents\Visual Studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.MSL_Server_Details.resources
+C:\Users\v-kipech\Documents\Visual Studio 2013\Projects\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csproj.ResolveComReference.cache
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\bin\Debug\Basic SKU Search.exe.config
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csproj.ResolveComReference.cache
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.exe
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.pdb
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\bin\Debug\Basic SKU Search.exe
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\bin\Debug\Basic SKU Search.pdb
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csprojResolveAssemblyReference.cache
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.eMSL.resources
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Home.resources
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.MSL_Agreement_Search.resources
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.MSL_Server_Details.resources
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Open_Business_Customer_Search.resources
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Form2.resources
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.MOET_Sku_Search.resources
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Properties.Resources.resources
+C:\Users\Anil6066\Desktop\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csproj.GenerateResource.Cache
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\bin\Debug\Basic SKU Search.exe.config
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\bin\Debug\Basic SKU Search.exe
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\bin\Debug\Basic SKU Search.pdb
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csprojAssemblyReference.cache
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csproj.ResolveComReference.cache
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.eMSL.resources
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Home.resources
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.MSL_Agreement_Search.resources
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.MSL_Server_Details.resources
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Open_Business_Customer_Search.resources
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Form2.resources
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.MOET_Sku_Search.resources
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic_SKU_Search.Properties.Resources.resources
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csproj.GenerateResource.cache
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.csproj.CoreCompileInputs.cache
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.exe
+C:\Users\Anil6066\Desktop\Anavasaram\Basic SKU Search\Basic SKU Search\Basic SKU Search\obj\Debug\Basic SKU Search.pdb
